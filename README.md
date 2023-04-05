@@ -7,6 +7,9 @@ The follwoing qiestions were answered:
 3. Was there any difference in revenue over time for each of the methods?
 4. Based on the data, which method would you recommend we continue to use? Some of these methods take more time from the team so they may not be the best for us to use if the results are similar.
 
+## Dashboard
+![](sales_chart.png)
+
 # Recommendations
 from the analysis performed using the data provided, the following are recommended:
 
