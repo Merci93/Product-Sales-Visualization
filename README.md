@@ -1,7 +1,7 @@
 # Product Sales Visualization
 A Power BI visualization for the analysis of Pen and Printers, a company that provides high quality office products to large organizations and founded in 1984. They have built long lasting relationships with our customers and they trust us to provide them with the best products for them. As the way in which consumers buy products is changing, our sales tactics have to change too. Launching a new product line is expensive and we need to make sure we are using the best techniques to sell the new product effectively. The best approach may vary for each new product so we need to learn quickly what works and what doesn’t.
 
-The follwoing qiestions were answered:
+The follwoing questions were answered:
 1. How many customers were there for each approach?
 2. What does the spread of the revenue look like overall? And for each method?
 3. Was there any difference in revenue over time for each of the methods?
